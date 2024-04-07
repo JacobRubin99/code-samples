@@ -10,7 +10,7 @@ An example R script that was created in order to convert a series of raw dataset
 - grant_state: total amount of state and local grant aid awarded to FTFT undergraduates
 - grant_federal: total amount of federal grant aid awarded to FTFT undergraduates
 
-(2) AnalysisVisualizations.R :
+(2) ExampleVisualizations.R :
 An example R script that was created in order to create a summarative statistics table from a clean.csv file and two time-series graphs.
 
 (3) Multiple_Linear_Regression_to_Predict_Teacher_Attrition_Rates.R :
