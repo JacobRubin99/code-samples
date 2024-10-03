@@ -32,4 +32,3 @@ from ~500 commonly used survey questions that measure masculinity.
 Please feel free to reach out to me if there is trouble viewing files in the github account.
 
 Email: jacobrubin99@gmail.com
-Contact: (561) 886-7732
